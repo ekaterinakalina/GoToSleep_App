@@ -5,9 +5,9 @@ Go to sleep: the sleep cycle app
 👩‍💻 Hi, I am **Ekaterina, UX/UI Designer** with coding skills.
 
 Thanks for having a look at my very first iOS app: Go to sleep. 
-This app was my final project at the end of the bootcamp **“App Development: iOS Basic course”** (Cimdata, Germany | August 2023).
+This app was my final project at the bootcamp **“App Development: iOS Basic course”** (Cimdata, Germany | August 2023).
 
-The given challenge was building a data-centred app using Swift, SwiftUI Framework, XCode.
+The given challenge was to build a data-centred app using Swift, SwiftUI.
 
 **Programming:**
 - Data structure “Cycle”
